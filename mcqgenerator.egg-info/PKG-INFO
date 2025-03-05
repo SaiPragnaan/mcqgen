@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: mcqgenerator
+Version: 0.0.1
+Author: Sai Pragnaan
+Author-email: pragnaan98@gmail.com
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Requires-Dist: langchain_google_genai
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
